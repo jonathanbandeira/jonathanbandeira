@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jonathan-bandeira-07b145143/"><i>Jonathan Bandeira</i></a> 😃️</h1>
+  <h1 align="center">Hi there 👋 Eu sou <a href="https://www.linkedin.com/in/jonathan-bandeira-07b145143/"><i>Jonathan Bandeira</i></a> 😃️</h1>
   <p align="center">Sou Desenvolvedor Web na <a href="https://www.flagnar.com.br/"><i>Flagnar</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCOCIpGAK6EeMWlJY2m4oWOw"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UCOCIpGAK6EeMWlJY2m4oWOw" target="_blank">
   </a><br>
@@ -9,11 +7,21 @@
 </div>
 
 
-<!-- <h1 align="center"> 
-  Trybe
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+<h1 align="center"> 
+  Flagnar
 </h1>
 
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+<p align="center"><i>"Flagnar"</i></p> -->
 
 <div align="center">
   <a href="https://github.com/jonathanbandeira">
@@ -33,6 +41,11 @@
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+  
+  
+  
+  
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
@@ -51,17 +64,7 @@
   
 </div>
 
-<!--
-**jonathanbandeira/jonathanbandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
