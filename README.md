@@ -36,38 +36,29 @@
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-  <div align="center" valign="top"><br>
-
-  <img align="center" src="https://aleen42.github.io/badges/src/behance.svg">
-  <img align="center"src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align="center" src="https://aleen42.github.io/badges/src/after_effects.svg">
-  <img align="center" src="https://aleen42.github.io/badges/src/premiere.svg">
-  <img align="center" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+  <div align="center" valign="top">
+    <h3>E conhecimentos e experiência em</h3>
+    <img align="center" src="https://aleen42.github.io/badges/src/behance.svg">
+    <img align="center"src="https://aleen42.github.io/badges/src/photoshop.svg">
+    <img align="center" src="https://aleen42.github.io/badges/src/illustrator.svg">
+    <img align="center" src="https://aleen42.github.io/badges/src/after_effects.svg">
+    <img align="center" src="https://aleen42.github.io/badges/src/premiere.svg">
+    <img align="center" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+    <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <br><br>
 <div align="center">
   
 </div>
-  <h3 align="center"> 
-    <ul>
-      <li>E conhecimento e experiência em:</li>
-      <li>Criação de sites em Wordpress;</li>
-      <li>Designer Web;</li>
-      <li>Motion Design;</li>
-      <li>HTML5/ CSS3;</li>
-      <li>Photoshop;</li>
-      <li>After Effects;</li>
-      <li>Media Encoder;</li>
-      <li>Photoshop;</li>
-      <li>Photoshop CS6;</li>
-      <li>Illustrator;</li>
-      <li>Indesign;</li>
-      <li>Premiere;</li>
-      <li>Canva;</li>
-      <li>PMBOK;</li>
-      <li>Criação de Mídia Digital.</li>
-    </ul>
-    </h3>
+
   
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
