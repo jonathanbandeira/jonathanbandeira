@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi there 👋 <br> Eu sou <a href="https://www.linkedin.com/in/jonathan-bandeira-07b145143/"><i>Jonathan Bandeira</i></a> 😃️</h1>
-  <p align="center">Sou Desenvolvedor Web e Designer Web na <a href="https://www.instagram.com/flagnarweb/"><i>Flagnar</i></a> e compartilho também meu portifólio no meu site <a href="https://flagnar.com.br/" target="_blank"><i>Site da Flagnar</i></a>
+  <p align="center">Sou Desenvolvedor Frontend e Designer Web na <a href="https://www.instagram.com/flagnarweb/"><i>Flagnar</i></a> e compartilho também meu portifólio no meu site <a href="https://flagnar.com.br/" target="_blank"><i>Site da Flagnar</i></a>
 </div>
   </a>
   <p align="center">Venha conhecer um pouco mais do meu trabalho, sua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
