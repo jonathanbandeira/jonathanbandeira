@@ -34,8 +34,6 @@
        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  </div>
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
   <div align="center" valign="top">
     <h3>E conhecimentos e experiência em</h3>
       <img align="center" src="https://aleen42.github.io/badges/src/behance.svg">
@@ -57,6 +55,9 @@
   <br><br>
 <div align="center">
   
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+ 
 </div>
 
   
