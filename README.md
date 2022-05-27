@@ -33,8 +33,18 @@
        <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  </div>
+ <br><br>
   
-  <div align="center" valign="top">
+ <p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jonathanbandeira&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+    
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+ 
+</div>
+
+<div align="center" valign="top">
     <h3>E conhecimentos e experiência em</h3>
       <img align="center" src="https://aleen42.github.io/badges/src/behance.svg">
       <img align="center"src="https://aleen42.github.io/badges/src/photoshop.svg">
@@ -54,15 +64,6 @@
       <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <br><br>
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
- 
-</div>
-    
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jonathanbandeira&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
 
   
 🔭 I’m currently working on ...
