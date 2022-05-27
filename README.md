@@ -11,7 +11,7 @@
   </a> 
     <br><br>
     <div align="center">
-  <p>Sou Graduando em Sistemas de Informação no IFES - INSTITUTO FEDERAL DO ESPÍRITO SANTO | Desenvolvedor Frontend | Motion Web Designer na <a href="https://www.instagram.com/flagnarweb/"><i>Flagnar</i></a> e confira também meu portifólio no meu site <a href="https://flagnar.com.br/" target="_blank"><i>Site da Flagnar</i></a></p>
+  <p>Sou Graduando em Sistemas de Informação no IFES - INSTITUTO FEDERAL DO ESPÍRITO SANTO | Desenvolvedor Frontend | Motion Web Designer na <a href="https://www.instagram.com/flagnarweb/"><i>Flagnar</i></a> e confira também meu portifólio no <a href="https://flagnar.com.br/" target="_blank"><i>Site da Flagnar</i></a></p>
 </div>
   </a>
   <p align="center">Venha conhecer um pouco mais do meu trabalho, sua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
