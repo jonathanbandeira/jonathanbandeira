@@ -39,6 +39,7 @@
 </div>
   <h3 align="center"> 
     <ul>
+      <li>E conhecimento e experiência em:</li>
       <li>Criação de sites em Wordpress;</li>
       <li>Designer Web;</li>
       <li>Motion Design;</li>
